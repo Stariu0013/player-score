@@ -1,0 +1,21 @@
+
+.table {
+    border-collapse: collapse;
+}
+
+.td {
+    width: 150px;
+    height: 30px;
+
+    padding: 0 15px;
+
+    border: 1px solid lightgray;
+}
+
+.playerName {
+    text-align: left;
+}
+
+.score {
+    text-align: center;
+}
